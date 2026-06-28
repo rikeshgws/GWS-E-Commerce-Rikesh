@@ -1,0 +1,17 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+graphql-core==3.2.3
+graphene==3.2.0
+graphene-sqlalchemy==3.0.0
+graphene-file-upload==1.3.0
+SQLAlchemy==2.0.23
+python-multipart==0.0.6
+passlib==1.7.4
+bcrypt==4.0.1
+python-jose==3.3.0
+python-dotenv==1.0.0
+aiofiles==23.2.1
+Pillow==10.1.0
+pymysql==1.1.0
+cryptography==41.0.7
+strawberry-graphql==0.179.0
