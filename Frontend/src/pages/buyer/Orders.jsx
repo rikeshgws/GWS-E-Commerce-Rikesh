@@ -322,7 +322,7 @@ function BuyerOrders() {
       {showDeliverModal && (
         <div className="modal fade show d-block" tabIndex="-1" style={{ backgroundColor: 'rgba(0,0,0,0.7)' }}>
           <div className="modal-dialog modal-sm modal-dialog-centered">
-            <div className="modal-content bg-dark text-dark">
+            <div className="modal-content bg-dark text-white">
               <div className="modal-header border-secondary">
                 <h6 className="modal-title">
                   <i className="bi bi-check-circle me-2 text-success"></i>
